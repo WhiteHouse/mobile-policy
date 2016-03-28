@@ -33,12 +33,12 @@ _Exception for agency-wide, mandatory use vehicles:_  Covered agencies may conti
 
 Agencies that cannot meet these requirements must transition to a government-wide solution or solutions by September 30, 2018.
 
-_Transition Plans__:_  Covered agency CIOs, in consultation with their Chief Acquisition Officers and Senior Procurement Executives, shall develop short transition plans to meet these objectives and submit to OMB by August 31, 2016.  The transition plan should also outline situations where agencies are unable to consolidate its mobile infrastructure, such as in remote locations, and the extent to which the existing GSA wireless solution will be used as a step toward this consolidation.  These plans will be collected through the IDC managed by OMB's Office of the Federal Chief Information Officer.  Specific instructions for transition plans will be initially posted in MAX at this URL: [https://community.max.gov/x/LhtGJw](https://community.max.gov/x/LhtGJw).
+_Transition Plans__:_  Covered agency CIOs, in consultation with their Chief Acquisition Officers and Senior Procurement Executives, shall develop short transition plans to meet these objectives and submit to OMB by August 31, 2016.  The transition plan should also outline situations where agencies are unable to consolidate its mobile infrastructure, such as in remote locations, and the extent to which the existing GSA wireless solution will be used as a step toward this consolidation.  These plans will be collected through the IDC managed by OMB's Office of the Federal Chief Information Officer.  Specific instructions for transition plans will be initially posted in MAX at this URL: [https://community.max.gov/x/LhtGJw](https://community.max.gov/x/LhtGJw) (Note that MAX is an internal community for Federal users, and is not intended for public access).
 
 ### Footnotes
 <ul style="list-style-type:none">
 
-<li id="fn1"><sup>11</sup>[http://www.gsa.gov/portal/category/100931](http://www.gsa.gov/portal/category/100931)</a></li>
+<li id="fn11"><sup>11</sup>[http://www.gsa.gov/portal/category/100931](http://www.gsa.gov/portal/category/100931)</a></li>
   
 <li id="fn12"><sup>12</sup>The Category Management Leadership Council is the group formerly known as the Strategic Sourcing Leadership Council (SSLC) and was established under M-13-02, Improving Acquisition through Strategic Sourcing: [https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-02\_0.pdf](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-02\_0.pdf).</a></li>
 
