@@ -15,13 +15,13 @@ _Define Government-wide Requirements._  Taking the steps above will help agencie
 
 * develop a strategy no later than October 31, 2016, for at least one next generation government-wide acquisition solution, to be awarded prior to May 31, 2018.  The strategy must include threshold discounts at the contract level based on volume to maximize savings for agencies.  The MSCT must also:
 
-* seek input from all covered agency CIOs to define requirements for the next generation government-wide wireless solution to ensure sufficient flexibility is included in the offering to meet domestic and international mission requirements;
+ * seek input from all covered agency CIOs to define requirements for the next generation government-wide wireless solution to ensure sufficient flexibility is included in the offering to meet domestic and international mission requirements;
 
-* engage users, including contracting officers, program managers, security officers, and technology officers, to evaluate the performance and value (including associated procurement transaction costs) of the current and next generation government-wide wireless solution on a regular basis and address concerns as needed in accordance with OFPP guidance;<sup id="fnr13"><a href="#fn13">13</a></sup>
+ * engage users, including contracting officers, program managers, security officers, and technology officers, to evaluate the performance and value (including associated procurement transaction costs) of the current and next generation government-wide wireless solution on a regular basis and address concerns as needed in accordance with OFPP guidance;<sup id="fnr13"><a href="#fn13">13</a></sup>
 
-* evaluate vendor performance and pricing and make recommendations to OMB on an annual basis to improve how the Federal Government buys and manages its government-wide mobile services contract;
-* ensure that Section 508 monitoring mechanisms are incorporated into acquisition strategies; and
-* provide mobile service usage and pricing data to the IDC on a quarterly basis to evaluate pricing, fees, and performance of the current and next generation contracts.
+ * evaluate vendor performance and pricing and make recommendations to OMB on an annual basis to improve how the Federal Government buys and manages its government-wide mobile services contract;
+ * ensure that Section 508 monitoring mechanisms are incorporated into acquisition strategies; and
+ * provide mobile service usage and pricing data to the IDC on a quarterly basis to evaluate pricing, fees, and performance of the current and next generation contracts.
 
 _Exception for agency-wide, mandatory use vehicles:_  Covered agencies may continue the use of mobile services agreements that are mandatory for agency-wide use through the end of the current base or option period, as applicable.  When a government-wide solution is available, the covered agency shall analyze terms, conditions, pricing, performance, fees, and savings under the agency agreement relative to the approved agreements, document findings, and provide this information to the MSCT for approval no less than 6 months prior to the exercise of each option. Eighteen (18) months prior to any re-competition of these solutions, the covered agency must submit a transition plan to the MSCT that outlines how the agency will transition to the government-wide agreement.  To qualify for an exemption, covered agencies are required to implement category management principles in the administration of those vehicles and must, at a minimum:
 
