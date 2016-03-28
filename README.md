@@ -2,7 +2,7 @@
 
 The Office of Management and Budget (OMB) is accepting public comment on draft guidance to improve the acquisition and management of mobile services and devices. This policy is the third in a series of category management policies to drive greater performance, efficiencies, and savings in commonly-purchased information technology goods and services.
 
-The proposed guidance is now open for public comment on this page. The public feedback period will be 30 days, starting on March 30, 2016, and closing on April 30, 2016. Following the public feedback period, OMB will analyze all submitted feedback and revise the policy as necessary.
+The proposed guidance is now open for public comment on this page. The public feedback period will be 30 days, closing on April 28, 2016. Following the public comment period, feedback received will be analyzed to help inform the development of any final policy.
 
 ### Public domain
 
