@@ -22,12 +22,12 @@ exclude:
 # Site metadata
 name: "Mobile Category Management Policy"
 description: "Category Management Policy 16-2: Improving the Acquisition and Management of Common Information Technology: Mobile Devices and Service"
-baseurl: https://ombegov.github.io/mobile-policy/
+baseurl: https://whitehouse.github.io/mobile-policy/
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/mobile-policy/
 # baseurl: /mobile-policy
 
 # GitHub information
-org_name: ombegov
+org_name: whitehouse
 repo_name: mobile-policy
 branch: gh-pages
 
