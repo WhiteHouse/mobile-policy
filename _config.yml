@@ -1,0 +1,56 @@
+# markdown 
+markdown: redcarpet
+redcarpet:
+  extensions: ["superscript","tables","with_toc_data","strikethrough","smart"]
+highlighter: pygments
+
+exclude:
+- ".ruby-version"
+- ".jekyll-metadata"
+- ".gitignore"
+- ".travis.yml"
+- todo.txt
+- resources
+- Gemfile
+- Gemfile.lock
+- Makefile
+- vendor
+- README.md
+- CONTRIBUTING.md
+- LICENSE.md
+
+# Site metadata
+name: "Mobile Category Management Policy"
+description: "Category Management Policy 16-2: Improving the Acquisition and Management of Common Information Technology: Mobile Devices and Service"
+baseurl: https://ombegov.github.io/mobile-policy/
+# Uncomment the following line for localhost development at http://127.0.0.1:4000/mobile-policy/
+# baseurl: /mobile-policy
+
+# GitHub information
+org_name: ombegov
+repo_name: mobile-policy
+branch: gh-pages
+
+# Navigation
+# List links that should appear in the site sidebar here
+navigation:
+- text: Home
+  url: /mobile-policy/
+- text: Introduction
+  url: /mobile-policy/introduction/
+- text: Baseline Agency Usage for Devices and Services
+  url: /mobile-policy/baseline/
+- text: Optimize Agency Requirements
+  url: /mobile-policy/optimize/
+- text: Transition to Government-wide Acquisition Strategies and Create Accountability
+  url: /mobile-policy/transition/
+- text: Improving Demand Management Practices
+  url: /mobile-policy/improving/
+- text: Creating a Broker Model to Act as a Single Buyer
+  url: /mobile-policy/brokermodel/
+- text: Creating Accountability
+  url: /mobile-policy/accountability/
+  
+# sass
+sass:
+  sass_dir: _sass
