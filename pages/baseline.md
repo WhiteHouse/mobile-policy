@@ -12,7 +12,7 @@ The Federal Government cannot efficiently and effectively buy mobile services if
 
 Covered agencies must report all mobile service usage and pricing data to the Integrated Data Collection (IDC), due May 31, 2016 and each quarter thereafter. OMB will then post all usage and pricing data to the Acquisition Gateway<sup id="fnr9"><a href="#fn9">9</a></sup> for use by other Federal Government agencies during the market research phase of any wireless contract acquisition.  The reports must, at a minimum, identify the purchased service, including quantity of minutes, data, number of text messages, and the actual utilization of this service.
 
-If a covered agency's existing contracts do not provide for usage reports, covered agencies shall modify these agreements to receive this information at least quarterly, but no less than semi-annually. Specific instructions for data submission will be initially posted in MAX at this URL: [https://community.max.gov/x/LhtGJw](https://community.max.gov/x/LhtGJw).
+If a covered agency's existing contracts do not provide for usage reports, covered agencies shall modify these agreements to receive this information at least quarterly, but no less than semi-annually. Specific instructions for data submission will be initially posted in MAX at this URL: [https://community.max.gov/x/LhtGJw](https://community.max.gov/x/LhtGJw) (Note that MAX is an internal community for Federal users, and is not intended for public access).
 
 ### Footnotes
 
