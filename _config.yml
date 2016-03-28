@@ -38,15 +38,15 @@ navigation:
   url: /mobile-policy/
 - text: Introduction
   url: /mobile-policy/introduction/
-- text: Baseline Agency Usage for Devices and Services
+- text: Baseline Agency Usage
   url: /mobile-policy/baseline/
 - text: Optimize Agency Requirements
   url: /mobile-policy/optimize/
-- text: Transition to Government-wide Acquisition Strategies and Create Accountability
+- text: Transition to Government-wide Strategies
   url: /mobile-policy/transition/
 - text: Improving Demand Management Practices
   url: /mobile-policy/improving/
-- text: Creating a Broker Model to Act as a Single Buyer
+- text: Creating a Broker Model
   url: /mobile-policy/brokermodel/
 - text: Creating Accountability
   url: /mobile-policy/accountability/
