@@ -16,7 +16,7 @@ Without an enterprise-wide inventory that includes each device and associated se
 *identify unused devices and services;<sup id="fnr10"><a href="#fn10">10</a></sup> and
 *terminate unused devices and services no later than May 31, 2016, and each quarter thereafter, as necessary.
 
-Specific instructions for data submission will be initially posted in MAX at this URL: [https://community.max.gov/x/LhtGJw](https://community.max.gov/x/LhtGJw).
+Specific instructions for data submission will be initially posted in MAX at this URL: [https://community.max.gov/x/LhtGJw](https://community.max.gov/x/LhtGJw) (Note that MAX is an internal community for Federal users, and is not intended for public access).
 
 ### Footnotes
 
