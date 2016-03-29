@@ -22,7 +22,7 @@ exclude:
 # Site metadata
 name: "Mobile Category Management Policy"
 description: "Category Management Policy 16-2: Improving the Acquisition and Management of Common Information Technology: Mobile Devices and Service"
-baseurl: https://whitehouse.github.io/mobile-policy/
+baseurl: https://mobile.cio.gov
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/mobile-policy/
 # baseurl: /mobile-policy
 
@@ -35,21 +35,21 @@ branch: gh-pages
 # List links that should appear in the site sidebar here
 navigation:
 - text: Home
-  url: /mobile-policy/
+  url: /
 - text: Introduction
-  url: /mobile-policy/introduction/
+  url: /introduction/
 - text: Baseline Agency Usage
-  url: /mobile-policy/baseline/
+  url: /baseline/
 - text: Optimize Agency Requirements
-  url: /mobile-policy/optimize/
+  url: /optimize/
 - text: Transition to Government-wide Strategies
-  url: /mobile-policy/transition/
+  url: /transition/
 - text: Improving Demand Management Practices
-  url: /mobile-policy/improving/
+  url: /improving/
 - text: Creating a Broker Model
-  url: /mobile-policy/brokermodel/
+  url: /brokermodel/
 - text: Creating Accountability
-  url: /mobile-policy/accountability/
+  url: /accountability/
   
 # sass
 sass:
